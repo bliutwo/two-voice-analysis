@@ -22,6 +22,7 @@
 - [ ] Find out and write definition / criteria for passing tone
   - [x] here is the [image for passing tone](https://i.imgur.com/z3GRNWd.png)
 - [ ] Find out and write definition / criteria for suspensions
+  - [x] i[mage](https://i.imgur.com/slarkMV.png)
   - Looks like "Guidelines for Cadences for Two Voices in Examples" has examples
   - [ ] take a look there, `wk2 tues`, and write some notes for that
   - [ ] "Guidelines for Two-Voice Writing" in `wk2 tues`
