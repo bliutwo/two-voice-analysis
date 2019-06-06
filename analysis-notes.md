@@ -15,6 +15,7 @@
 - Where does imitation begin?
 - Mark Passing Tones
 - Suspensions
+- [x] The [link](http://openmusictheory.com/embellishingTones.html) has a lot of useful definitions
 - NT = Non-Tone?
   - [x] **ANSWER**: [NON-CHORD TONE](https://i.imgur.com/O1siCzX.png)
   - [x] **ALSO**: [NEIGHBOR TONE](https://i.imgur.com/QoytSSq.png)
