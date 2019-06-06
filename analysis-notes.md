@@ -17,22 +17,28 @@
 - Suspensions
 - [x] The [link has a lot of useful definitions](http://openmusictheory.com/embellishingTones.html)
 - NT = Non-Tone?
-  - [x] **ANSWER**: [NON-CHORD TONE](https://i.imgur.com/O1siCzX.png)
-  - [x] **ALSO**: [NEIGHBOR TONE](https://i.imgur.com/QoytSSq.png)
-- [ ] Find out and write definition / criteria for passing tone
-  - [x] here is the [image for passing tone](https://i.imgur.com/z3GRNWd.png)
-- [ ] Find out and write definition / criteria for suspensions
+  - [x] **DEFINITION**: [NON-CHORD TONE](https://i.imgur.com/O1siCzX.png)
+  - [x] **DEFINITION**: [NEIGHBOR TONE](https://i.imgur.com/QoytSSq.png)
+- [x] Find out and write definition / criteria for passing tone
+  - [x] **DEIFNITION* [PASSING TONE](https://i.imgur.com/z3GRNWd.png)
+- [x] Find out and write definition / criteria for suspensions
   - [x] **DEFINITION**: [SUSPENSION](https://i.imgur.com/slarkMV.png)
   - Looks like "Guidelines for Cadences for Two Voices in Examples" has examples
   - [ ] take a look there, `wk2 tues`, and write some notes for that
   - [ ] "Guidelines for Two-Voice Writing" in `wk2 tues`
-- [ ] Find out what NT means, and what the def / crit are
-- [ ] Mark imitation begin #1
-- [ ] Mark imitation begin #2
+- [x] Find out what NT means, and what the def / crit are
+- [x] **DEFINITION**: [MINIM](https://i.imgur.com/x4uagjf.png)
+- [x] **DEFINITION**: [CAMBIATA](https://i.imgur.com/624LYOR.png)
+- [x] **DEFINITION**: [ANTICIPATION](https://i.imgur.com/PsO2J4f.png)
+- [x] Write [SUMMARY OF NON-CHORD TONES](https://i.imgur.com/cXqrksa.png) in pencil
+- [x] Mark imitation begin #1
+- [x] Mark imitation begin #2
 - [ ] Mark Passing Tones #1
 - [ ] Mark Passing Tones #2
 - [ ] Mark Suspensions #1
 - [ ] Mark Suspensions #2
+- [ ] Mark Neighbor Tone #1
+- [ ] Mark Neighbor Tone #2
 
 ### Consonances / Dissonances
 
