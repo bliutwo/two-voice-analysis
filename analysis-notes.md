@@ -30,7 +30,7 @@
 - [x] **DEFINITION**: [MINIM](https://i.imgur.com/x4uagjf.png)
 - [x] **DEFINITION**: [CAMBIATA](https://i.imgur.com/624LYOR.png)
 - [x] **DEFINITION**: [ANTICIPATION](https://i.imgur.com/PsO2J4f.png)
-- [x] Write [SUMMARY OF NON-CHORD TONES](https://i.imgur.com/cXqrksa.png) in pencil
+- [x] Write [SUMMARY OF (some) NON-CHORD TONES](https://i.imgur.com/cXqrksa.png) in pencil
 - [x] Mark imitation begin #1
 - [x] Mark imitation begin #2
 - [ ] Mark Passing Tones #1
