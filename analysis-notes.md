@@ -20,12 +20,12 @@
   - [x] **DEFINITION**: [NON-CHORD TONE](https://i.imgur.com/O1siCzX.png)
   - [x] **DEFINITION**: [NEIGHBOR TONE](https://i.imgur.com/QoytSSq.png)
 - [x] Find out and write definition / criteria for passing tone
-  - [x] **DEIFNITION* [PASSING TONE](https://i.imgur.com/z3GRNWd.png)
+  - [x] **DEFINITION** [PASSING TONE](https://i.imgur.com/z3GRNWd.png)
 - [x] Find out and write definition / criteria for suspensions
   - [x] **DEFINITION**: [SUSPENSION](https://i.imgur.com/slarkMV.png)
   - Looks like "Guidelines for Cadences for Two Voices in Examples" has examples
-  - [ ] take a look there, `wk2 tues`, and write some notes for that
-  - [ ] "Guidelines for Two-Voice Writing" in `wk2 tues`
+  - [x] take a look there, `wk2 tues` (it's open)
+  - [x] "Guidelines for Two-Voice Writing" in `wk2 tues` (it's open)
 - [x] Find out what NT means, and what the def / crit are
 - [x] **DEFINITION**: [MINIM](https://i.imgur.com/x4uagjf.png)
 - [x] **DEFINITION**: [CAMBIATA](https://i.imgur.com/624LYOR.png)
